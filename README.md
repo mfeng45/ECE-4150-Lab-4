@@ -34,3 +34,6 @@ To deploy the photo gallery application on the Kubernetes cluster, we will creat
 ## Get Started
 
 Follow the steps above to deploy the Photo Gallery application to a Kubernetes cluster using Minikube and kubectl.
+
+## Video Demonstration of the Final Product
+Youtube Link: https://youtu.be/lg7kt8D6HPI
